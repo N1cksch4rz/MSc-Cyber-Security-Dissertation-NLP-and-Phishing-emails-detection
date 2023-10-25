@@ -2,3 +2,34 @@
 
 **Description:**
 This GitHub repository contains the code and resources related to my MSc (Master of Science) dissertation in Cyber Security, which focuses on the application of Natural Language Processing (NLP) techniques for phishing email detection.
+
+
+
+
+        ,%&& %&& %
+           ,%&%& %&%& %&
+          %& %&% &%&% % &%
+         % &%% %&% &% %&%&,
+         &%&% %&%& %& &%& %
+        %%& %&%& %&%&% %&%%&
+        &%&% %&% % %& &% %%&
+        && %&% %&%& %&% %&%'
+         '%&% %&% %&&%&%%'%
+          % %& %& %&% &%%
+            `\%%.'  /`%&'
+              |    |            /`-._           _\\/
+              |,   |_          /     `-._ ..--~`_
+              |;   |_`\_      /  ,\\.~`  `-._ -  ^
+              |;:  |/^}__..-,@   .~`    ~    `o ~
+              |;:  |(____.-'     '.   ~   -    `    ~
+              |;:  |  \ / `\       //.  -    ^   ~
+              |;:  |\ /' /\_\_        ~. _ ~   -   //-
+         NB\\/;:   \'--' `---`           `\\//-\\///
+
+
+
+
+
+
+
+
